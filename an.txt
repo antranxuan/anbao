@@ -6,4 +6,8 @@ TRan xuan an 1
 
 an2
 
+<<<<<<< HEAD
 0987
+=======
+a2
+>>>>>>> 7e109cff17c6935ba32a554f4a54682af8c8bea7
